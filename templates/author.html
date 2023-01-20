@@ -1,0 +1,17 @@
+<body>
+    <h1>the authors are:</h1>
+     <table id="customers" class="table table-striped">
+    <tr>
+      <th>ID</th>
+      <th>name</th>
+    </tr>
+
+    {% for key, value in my_dict.items() %}
+    <tr>
+      <td>{{ key }}</td>
+      <td>{{ value}}</td>
+    </tr>
+    {% endfor %}
+     </table>
+</body>
+</html>
