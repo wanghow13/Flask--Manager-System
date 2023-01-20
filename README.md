@@ -7,18 +7,5 @@
 	
 
 	
-    <p>这是一个简单的无数据库版工单管理系统 
-	
-	</p>
-	<p >前端页面基于bootstrap样式并引用flask模板</p>
-	<p >后端基于python flask</p>
-	<p >内容的增删改查基于对文件的遍历读取</p>
-	
-	
-    <ul>
-    	<li >简单登录</li>
-    	<li >增删查改</li>
-    	<li >数据导出</li>
-    </ul>
-	
+    ![image](https://user-images.githubusercontent.com/98365645/213615088-fb9f72bb-5ab9-4d43-adac-016b96a69ce1.png)
 
