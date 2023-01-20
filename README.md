@@ -6,6 +6,8 @@
   
 	
 
-![image](https://github.com/wanghow13/Flask--Manager-System/raw/master/photo/od.png)
+![image](https://github.com/wanghow13/Flask--Manager-System/blob/main/photo/od.png)
+
+
   
 
